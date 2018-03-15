@@ -1,0 +1,1 @@
+This is readme file of second-attemp.git. Hello! nice to see you care.
